@@ -13,9 +13,9 @@ As a Conference Talk volunteer, we would like a system that encourages and captu
 We need a way to gather comments from participants. We've found that online surveys have a very low response rate, so we've been favoring paper cards. The paper cards are labor-intensive. We either need a solution that scans most of the comments from the paper cards or that incentivizes participants to enter them digitally.
 
 ## Technologies Used
--[Backend] : Springboot
--[Frontend] : React
--[Database] : Postgresql
+- [Backend] : Springboot
+- [Frontend] : React
+- [Database] : Postgresql
 
 ## How to install
 #### Installation
@@ -38,7 +38,7 @@ We need a way to gather comments from participants. We've found that online surv
 	npm install
 ```
 
--Run the following command to get the web app up and running while being inside the same directory.
+7.Run the following command to get the web app up and running while being inside the same directory.
 ```
 	npm start
 ```
