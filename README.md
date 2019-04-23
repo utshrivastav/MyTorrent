@@ -1,5 +1,5 @@
 # Conferece talk survey (web app)
->ACADEM-35864
+>Epic Link : https://jira2.cerner.com/browse/ACADEM-35864
 
 ### Table of content
 - [Description](#description)
@@ -19,7 +19,7 @@ We need a way to gather comments from participants. We've found that online surv
 
 ## How to install
 #### Installation
-1.Clone the repository to your machine by running the command git clone <clone link> using cmd/git bash/terminal.
+1.Clone the repository to your machine by running the command git clone (clone link) using cmd/git bash/terminal.
 
 2.Download node.js from https://nodejs.org/en/ By default it will also come with the node package manager aka. npm.
 
