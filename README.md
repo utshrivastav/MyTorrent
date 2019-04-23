@@ -1,4 +1,4 @@
-#Conferece talk survey (web app)
+# Conferece talk survey (web app)
 >ACADEM-35864
 
 ### Table of content
@@ -12,13 +12,13 @@ As a Conference Talk volunteer, we would like a system that encourages and captu
 
 We need a way to gather comments from participants. We've found that online surveys have a very low response rate, so we've been favoring paper cards. The paper cards are labor-intensive. We either need a solution that scans most of the comments from the paper cards or that incentivizes participants to enter them digitally.
 
-##Technologies Used
+## Technologies Used
 -Backend : Springboot
 -Frontend : React
 -Database : Postgresql
 
 ## How to install
-####Installation
+#### Installation
 -Clone the repository to your machine by running the command git clone <clone link> using cmd/git bash/terminal.
 -Download node.js from https://nodejs.org/en/ By default it will also come with the node package manager aka. npm.
 
