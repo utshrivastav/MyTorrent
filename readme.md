@@ -47,6 +47,7 @@ We need a way to gather comments from participants. We've found that online surv
 	d.Restart the eclipse after the installation.
 
 6.Import REST-app from Conference-Survey-Talk root directory.
+
 	a.Go to Eclipse > File > Import > Maven > Existing Maven Projects.
 	b.Select REST-app from the directory where you cloned the project.
 	c.Check pom.xml and click finish. Maven will download all the dependencies.
@@ -54,4 +55,4 @@ We need a way to gather comments from participants. We've found that online surv
 
 7.Start the REST-app by right clicking the app and selecting run as Spring Boot App.
 
-8. If you did not get any error, your setup is complete.
+8.If you did not get any error, your setup is complete.
