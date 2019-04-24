@@ -21,7 +21,7 @@ We need a way to gather comments from participants. We've found that online surv
 #### Installation
 1.Clone the repository to your machine by running the command git clone (clone link) using cmd/git bash/terminal.
 
-2.Install JDK(https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2.Install [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 3.Set your JAVA_HOME and JRE_HOME environement variable set up based on your Operaing System environment variable setup.
 
