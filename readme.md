@@ -15,7 +15,7 @@ We need a way to gather comments from participants. We've found that online surv
 ## Technologies Used
 - Backend : Springboot
 - Frontend : React
-- Database : Postgresql
+- Database : PostgreSQL
 
 ## How to install
 #### Installation
@@ -34,7 +34,7 @@ We need a way to gather comments from participants. We've found that online surv
 	b.A local webpage will be launched to manage the database.
 	c.Click 'servers' from the left panel.
 	d.You will be prompted to enter the password which is 'password'.
-	e.Select Database and then right click on Datatbase. Select Create > Database.
+	e.Select Database and then right click on Database. Select Create > Database.
 	f.Write Database Name 'conferencetalksurvey' and Save.
 
 5.Install [Eclipse](https://www.eclipse.org/downloads/) on to your machine.
@@ -49,7 +49,7 @@ We need a way to gather comments from participants. We've found that online surv
 	a.Go to Eclipse > File > Import > Maven > Existing Maven Projects.
 	b.Select REST-app from the directory where you cloned the project.
 	c.Check pom.xml and click finish. Maven will download all the dependencies.
-	d.Once done right click on the project on project explorer. Go to maven and then update the project.
+	d.Once done, right click on the project on project explorer. Go to maven and then update the project.
 
 7.Start the REST-app by right clicking the app and selecting run as Spring Boot App.
 
