@@ -1,4 +1,4 @@
-# Conferece talk survey (web app)
+# Conferece talk survey (rest app)
 >Epic Link : https://jira2.cerner.com/browse/ACADEM-35864
 
 ### Table of content
@@ -21,14 +21,14 @@ We need a way to gather comments from participants. We've found that online surv
 #### Installation
 1.Clone the repository to your machine by running the command git clone (clone link) using cmd/git bash/terminal.
 
-2.Download node.js from https://nodejs.org/en/ By default it will also come with the node package manager aka. npm.
+2.Install JDK(https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-3.To check whether you have successfully installed node.js and npm open command prompt and type the following
-```
-	node -v
-	npm -v
-	
-```
+3.Set your JAVA_HOME and JRE_HOME environement variable set up based on your Operaing System environment variable setup.
+
+4.Install PostgreSQL(https://www.postgresql.org/download/)
+
+	a.Make sure to install pgAdmin (checked default) which helps manage database connection.
+	b. 
 4.The command should give you a version for both.
 
 5.Navigate to the web app directory from the Root directory of the project.
