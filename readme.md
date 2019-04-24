@@ -23,9 +23,7 @@ We need a way to gather comments from participants. We've found that online surv
 
 2.Install [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) on to your machine.
 
-- Set your JAVA_HOME and JRE_HOME environement variable set up based on your Operaing System environment variable setup.
-
-- Install [PostgreSQL](https://www.postgresql.org/download/) on to your machine.
+3.Install [PostgreSQL](https://www.postgresql.org/download/) on to your machine.
 
 	a.Make sure to install pgAdmin (checked default) which helps manage database connection.
 	b.Set the default user to "user" and password to "password" which is used in Springboot api's connection detatils.
