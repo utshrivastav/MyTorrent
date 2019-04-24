@@ -44,14 +44,14 @@ We need a way to gather comments from participants. We've found that online surv
 	a.Open help > eclipse marketplace.
 	b.Search "Spring Tools" from search and install "Spring Tools (aka Spring IDE and Spring Tool Suite)".
 	c.Note: the version used for initial setup was 3.9.4 RELEASE, as long as new version does not contain major changes latest version should be fine.
-	d.
+	d.Restart the eclipse after the installation.
 
-6.Run the following command on the to download all the dependencies for the web app.
-```
-	npm install
-```
+6.Import REST-app from Conference-Survey-Talk root directory.
+	a.Go to Eclipse > File > Import > Maven > Existing Maven Projects.
+	b.Select REST-app from the directory where you cloned the project.
+	c.Check pom.xml and click finish. Maven will download all the dependencies.
+	d.Once done right click on the project on project explorer. Go to maven and then update the project.
 
-7.Run the following command to get the web app up and running while being inside the same directory.
-```
-	npm start
-```
+7.Start the REST-app by right clicking the app and selecting run as Spring Boot App.
+
+8. If you did not get any error, your setup is complete.
